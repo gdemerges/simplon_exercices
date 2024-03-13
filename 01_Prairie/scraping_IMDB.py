@@ -6,7 +6,7 @@ url = 'https://www.imdb.com/chart/top/'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36',
-    'Accept-Language': 'en-US, en;q=0.5',
+    'Accept-Language': 'FR, en;q=0.5',
 }
 
 response = requests.get(url, headers=headers)
@@ -35,5 +35,6 @@ if response.status_code == 200:
 
     df_films = pd.DataFrame(films_data)
     print(df_films)
+    df_films.to_csv('out.csv', index=False)
 else:
     print(f"Erreur lors de la récupération de la page : {response.status_code}")
