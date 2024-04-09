@@ -487,3 +487,88 @@ result = {'type': 'plot', 'value': '/Users/guillaumedemerges/code/simplon/Veille
         ```
 2024-04-08 18:53:39 [INFO] Executing Step 6: CodeExecution
 2024-04-08 18:53:40 [ERROR] Pipeline failed on step 6: [Errno 2] No such file or directory: '/Users/guillaumedemerges/code/simplon/Veille/exports/charts/temp_chart.png'
+2024-04-09 09:20:33 [INFO] Question: fais moi le top 5 des pays par ventes
+2024-04-09 09:20:34 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-09 09:20:34 [INFO] Prompt ID: eb061f1e-1800-41a8-9ea9-2b9e9e4e9bea
+2024-04-09 09:20:34 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-09 09:20:34 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-09 09:20:34 [INFO] Executing Step 1: CacheLookup
+2024-04-09 09:20:34 [INFO] Using cached response
+2024-04-09 09:20:34 [INFO] Executing Step 2: PromptGeneration
+2024-04-09 09:20:34 [INFO] Executing Step 2: Skipping...
+2024-04-09 09:20:34 [INFO] Executing Step 3: CodeGenerator
+2024-04-09 09:20:34 [INFO] Executing Step 3: Skipping...
+2024-04-09 09:20:34 [INFO] Executing Step 4: CachePopulation
+2024-04-09 09:20:34 [INFO] Executing Step 4: Skipping...
+2024-04-09 09:20:34 [INFO] Executing Step 5: CodeCleaning
+2024-04-09 09:20:34 [INFO] 
+Code running:
+```
+df = dfs[0]
+top_countries = df.sort_values(by='sales', ascending=False).head(5)
+result = {'type': 'dataframe', 'value': top_countries}
+        ```
+2024-04-09 09:20:34 [INFO] Executing Step 6: CodeExecution
+2024-04-09 09:20:34 [INFO] Executing Step 7: ResultValidation
+2024-04-09 09:20:34 [INFO] Answer: {'type': 'dataframe', 'value':           country  sales
+9           China   7000
+0   United States   5000
+8           Japan   4500
+3         Germany   4100
+1  United Kingdom   3200}
+2024-04-09 09:20:34 [INFO] Executing Step 8: ResultParsing
+2024-04-09 09:20:43 [INFO] Question: What's the sum of the gdp of the 2 unhappiest countries?
+2024-04-09 09:20:43 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-09 09:20:43 [INFO] Prompt ID: 408b64dc-a656-48b2-b2b5-d1e925aaa98e
+2024-04-09 09:20:43 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-09 09:20:43 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-09 09:20:43 [INFO] Executing Step 1: CacheLookup
+2024-04-09 09:20:43 [INFO] Using cached response
+2024-04-09 09:20:43 [INFO] Executing Step 2: PromptGeneration
+2024-04-09 09:20:43 [INFO] Executing Step 2: Skipping...
+2024-04-09 09:20:43 [INFO] Executing Step 3: CodeGenerator
+2024-04-09 09:20:43 [INFO] Executing Step 3: Skipping...
+2024-04-09 09:20:43 [INFO] Executing Step 4: CachePopulation
+2024-04-09 09:20:43 [INFO] Executing Step 4: Skipping...
+2024-04-09 09:20:43 [INFO] Executing Step 5: CodeCleaning
+2024-04-09 09:20:43 [INFO] 
+Code running:
+```
+unhappiest_countries = dfs[0].nlargest(2, 'happiness_index')
+sum_gdp_unhappiest = unhappiest_countries['gdp'].sum()
+result = {'type': 'number', 'value': sum_gdp_unhappiest}
+        ```
+2024-04-09 09:20:43 [INFO] Executing Step 6: CodeExecution
+2024-04-09 09:20:43 [INFO] Executing Step 7: ResultValidation
+2024-04-09 09:20:43 [INFO] Answer: {'type': 'number', 'value': 3098370244608}
+2024-04-09 09:20:43 [INFO] Executing Step 8: ResultParsing
+2024-04-09 09:20:46 [INFO] Question: Plot a chart of the gdp by country
+2024-04-09 09:20:46 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-09 09:20:46 [INFO] Prompt ID: c70f0899-0d66-4568-a344-8aaf1ebfd651
+2024-04-09 09:20:46 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-09 09:20:46 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-09 09:20:46 [INFO] Executing Step 1: CacheLookup
+2024-04-09 09:20:46 [INFO] Using cached response
+2024-04-09 09:20:46 [INFO] Executing Step 2: PromptGeneration
+2024-04-09 09:20:46 [INFO] Executing Step 2: Skipping...
+2024-04-09 09:20:46 [INFO] Executing Step 3: CodeGenerator
+2024-04-09 09:20:46 [INFO] Executing Step 3: Skipping...
+2024-04-09 09:20:46 [INFO] Executing Step 4: CachePopulation
+2024-04-09 09:20:46 [INFO] Executing Step 4: Skipping...
+2024-04-09 09:20:46 [INFO] Executing Step 5: CodeCleaning
+2024-04-09 09:20:46 [INFO] Saving charts to /Users/guillaumedemerges/code/simplon/Veille/exports/charts/temp_chart.png
+2024-04-09 09:20:46 [INFO] 
+Code running:
+```
+data = {'country': ['Australia', 'Italy', 'Canada'], 'gdp': [9861320047, 616123537, 9507817002], 'happiness_index': [7.16, 6.4, 6.94]}
+df = dfs[0]
+plt.figure(figsize=(10, 6))
+plt.bar(df['country'], df['gdp'], color='skyblue')
+plt.xlabel('Country')
+plt.ylabel('GDP')
+plt.title('GDP by Country')
+plt.show()
+result = {'type': 'plot', 'value': '/Users/guillaumedemerges/code/simplon/Veille/exports/charts/temp_chart.png'}
+        ```
+2024-04-09 09:20:46 [INFO] Executing Step 6: CodeExecution
+2024-04-09 09:20:46 [ERROR] Pipeline failed on step 6: [Errno 2] No such file or directory: '/Users/guillaumedemerges/code/simplon/Veille/exports/charts/temp_chart.png'
