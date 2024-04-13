@@ -1,4 +1,5 @@
 import math
+import numpy as np
 
 def degrees_to_radians(degrees):
     radians = degrees * (math.pi / 180)
@@ -37,6 +38,56 @@ def area_sector(radius_circle, angle_measure):
 def discriminant_value(x, y, z):
     discriminant = (y**2) - (4*x*z)
     return discriminant
+
+# the multiplication of two given matrixes
+
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+result = np.dot(A, B)
+print(result)
+
+# to compute the outer product of two given vectors
+
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+result = np.outer(A, B)
+print(result)
+
+# to compute the cross product of two given vectors
+
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+result = np.cross(A, B)
+result2 = np.cross(B, A)
+print(result)
+
+# to compute the determinant of a given square array
+
+A = np.array([[1, 2], [3, 4]])
+
+determinant = np.linalg.det(A)
+print(determinant)
+
+# to evaluate Einstein's summation convention of two given multidimensional arrays
+
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+einstein = np.einsum("mk,kn", A, B)
+print(einstein)
+
+# Compute the inner product of vectors for 1-D arrays and in higher dimension
+
+A = np.array([1, 2])
+B = np.array([5, 6])
+
+result = np.inner(A, B)
+print(result)
+
+# Affichage
 
 degrees = 15
 radians = degrees_to_radians(degrees)
