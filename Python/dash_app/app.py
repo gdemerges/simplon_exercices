@@ -19,22 +19,48 @@ app.layout = dbc.Container([
     html.H1("Analyse de l'impact environnemental de la production alimentaire", className='text-center mb-4'),
     dbc.Row([
         dbc.Col([
-            html.Label('Sélectionnez les produits alimentaires :', className='h5'),
-            dcc.Dropdown(
-                id='product-dropdown',
-                options=[{'label': product, 'value': product} for product in data['Food product'].unique()],
-                value=data['Food product'].unique().tolist(),
-                multi=True,
-                style={'width': '100%'}
-            )
+            dbc.Card([
+                dbc.CardBody([
+                    html.Label('Sélectionnez les produits alimentaires :', className='h5'),
+                    dcc.Dropdown(
+                        id='product-dropdown',
+                        options=[{'label': product, 'value': product} for product in data['Food product'].unique()],
+                        value=data['Food product'].unique().tolist(),
+                        multi=True,
+                        style={'width': '100%'}
+                    )
+                ])
+            ])
         ], width=12)
     ]),
     dbc.Row([
-        dbc.Col(dcc.Graph(id='emissions-by-phase-bar'), md=12),
-        dbc.Col(dcc.Graph(id='water-source-pie'), md=6),
-        dbc.Col(dcc.Graph(id='ghg-emissions-boxplot'), md=6)
+        dbc.Col([
+            dbc.Card([
+                dbc.CardHeader("Emissions par Phase"),
+                dbc.CardBody([
+                    dcc.Graph(id='emissions-by-phase-bar')
+                ])
+            ], className="mb-4")
+        ], md=12),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardHeader("Sources d'Eau"),
+                dbc.CardBody([
+                    dcc.Graph(id='water-source-pie')
+                ])
+            ], className="mb-4")
+        ], md=6),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardHeader("Emissions de GES"),
+                dbc.CardBody([
+                    dcc.Graph(id='ghg-emissions-boxplot')
+                ])
+            ], className="mb-4")
+        ], md=6)
     ])
 ], fluid=True)
+
 
 # Callback for bar chart
 @app.callback(
@@ -44,7 +70,7 @@ app.layout = dbc.Container([
 def update_bar_chart(selected_products):
     filtered_data = data[data['Food product'].isin(selected_products)]
     fig = px.bar(filtered_data, x='Food product', y=['Land use change', 'Animal Feed', 'Farm', 'Processing', 'Transport', 'Packging', 'Retail'],
-                 title='Émissions par phase de production', labels={'value': 'Emissions (kg CO₂eq)', 'variable': 'Phase de Production'}, barmode='stack')
+        labels={'value': 'Emissions (kg CO₂eq)', 'variable': 'Phase de Production'}, barmode='stack')
     return fig
 
 # Callback for pie chart
@@ -55,8 +81,16 @@ def update_bar_chart(selected_products):
 def update_pie_chart(selected_products):
     filtered_data = data[data['Food product'].isin(selected_products)]
     fig = px.pie(filtered_data, values='Freshwater withdrawals per kilogram (liters per kilogram)', names='Food product',
-                 title="Répartition des sources d'eau par produits sélectionnés", hole=0.3)
-    fig.update_layout(width=800, height=600)
+                    hole=0.3)
+    fig.update_layout(width=800, height=600, legend=dict(
+            x=-0.2,
+            y=1,
+            xanchor='left',
+            yanchor='top'
+        ),
+        )
+
+    fig.update_traces(textposition='inside', textinfo='percent+label')
     return fig
 
 # Callback for boxplot
@@ -66,8 +100,7 @@ def update_pie_chart(selected_products):
 )
 def update_box_plot(selected_products):
     filtered_data = data[data['Food product'].isin(selected_products)]
-    fig = px.box(filtered_data, y='Total_emissions', x='Food product', color='Food product',
-                 title='Distribution des émissions de GES par kilogramme')
+    fig = px.box(filtered_data, y='Total_emissions', x='Food product', color='Food product')
     return fig
 
 if __name__ == '__main__':
