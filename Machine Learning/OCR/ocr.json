@@ -1,0 +1,4341 @@
+[
+  {
+    "lines": [
+      {
+        "text": "MANUFACTURING SURVEILLANCE CLEARANCE NOTE ISSUED BY DIRECTION INDUSTRIELLE TO MIPC",
+        "boundingPolygon": [
+          {
+            "x": 75,
+            "y": 8
+          },
+          {
+            "x": 336,
+            "y": 8
+          },
+          {
+            "x": 336,
+            "y": 18
+          },
+          {
+            "x": 75,
+            "y": 18
+          }
+        ],
+        "words": [
+          {
+            "text": "MANUFACTURING",
+            "boundingPolygon": [
+              {
+                "x": 77,
+                "y": 10
+              },
+              {
+                "x": 125,
+                "y": 10
+              },
+              {
+                "x": 125,
+                "y": 18
+              },
+              {
+                "x": 76,
+                "y": 18
+              }
+            ],
+            "confidence": 0.711
+          },
+          {
+            "text": "SURVEILLANCE",
+            "boundingPolygon": [
+              {
+                "x": 127,
+                "y": 10
+              },
+              {
+                "x": 165,
+                "y": 9
+              },
+              {
+                "x": 165,
+                "y": 18
+              },
+              {
+                "x": 126,
+                "y": 18
+              }
+            ],
+            "confidence": 0.398
+          },
+          {
+            "text": "CLEARANCE",
+            "boundingPolygon": [
+              {
+                "x": 167,
+                "y": 9
+              },
+              {
+                "x": 197,
+                "y": 9
+              },
+              {
+                "x": 197,
+                "y": 18
+              },
+              {
+                "x": 167,
+                "y": 18
+              }
+            ],
+            "confidence": 0.709
+          },
+          {
+            "text": "NOTE",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 9
+              },
+              {
+                "x": 213,
+                "y": 9
+              },
+              {
+                "x": 213,
+                "y": 18
+              },
+              {
+                "x": 199,
+                "y": 18
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "ISSUED",
+            "boundingPolygon": [
+              {
+                "x": 215,
+                "y": 9
+              },
+              {
+                "x": 234,
+                "y": 9
+              },
+              {
+                "x": 234,
+                "y": 18
+              },
+              {
+                "x": 214,
+                "y": 18
+              }
+            ],
+            "confidence": 0.225
+          },
+          {
+            "text": "BY",
+            "boundingPolygon": [
+              {
+                "x": 236,
+                "y": 9
+              },
+              {
+                "x": 242,
+                "y": 9
+              },
+              {
+                "x": 242,
+                "y": 18
+              },
+              {
+                "x": 235,
+                "y": 18
+              }
+            ],
+            "confidence": 0.84
+          },
+          {
+            "text": "DIRECTION",
+            "boundingPolygon": [
+              {
+                "x": 244,
+                "y": 9
+              },
+              {
+                "x": 272,
+                "y": 9
+              },
+              {
+                "x": 272,
+                "y": 18
+              },
+              {
+                "x": 243,
+                "y": 18
+              }
+            ],
+            "confidence": 0.826
+          },
+          {
+            "text": "INDUSTRIELLE",
+            "boundingPolygon": [
+              {
+                "x": 274,
+                "y": 9
+              },
+              {
+                "x": 311,
+                "y": 9
+              },
+              {
+                "x": 310,
+                "y": 18
+              },
+              {
+                "x": 274,
+                "y": 18
+              }
+            ],
+            "confidence": 0.379
+          },
+          {
+            "text": "TO",
+            "boundingPolygon": [
+              {
+                "x": 313,
+                "y": 9
+              },
+              {
+                "x": 319,
+                "y": 8
+              },
+              {
+                "x": 319,
+                "y": 19
+              },
+              {
+                "x": 312,
+                "y": 19
+              }
+            ],
+            "confidence": 0.84
+          },
+          {
+            "text": "MIPC",
+            "boundingPolygon": [
+              {
+                "x": 321,
+                "y": 8
+              },
+              {
+                "x": 333,
+                "y": 8
+              },
+              {
+                "x": 333,
+                "y": 19
+              },
+              {
+                "x": 320,
+                "y": 19
+              }
+            ],
+            "confidence": 0.555
+          }
+        ]
+      },
+      {
+        "text": "Contract Detalh",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 27
+          },
+          {
+            "x": 59,
+            "y": 27
+          },
+          {
+            "x": 59,
+            "y": 35
+          },
+          {
+            "x": 16,
+            "y": 35
+          }
+        ],
+        "words": [
+          {
+            "text": "Contract",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 28
+              },
+              {
+                "x": 39,
+                "y": 28
+              },
+              {
+                "x": 38,
+                "y": 36
+              },
+              {
+                "x": 17,
+                "y": 36
+              }
+            ],
+            "confidence": 0.804
+          },
+          {
+            "text": "Detalh",
+            "boundingPolygon": [
+              {
+                "x": 40,
+                "y": 28
+              },
+              {
+                "x": 58,
+                "y": 28
+              },
+              {
+                "x": 58,
+                "y": 35
+              },
+              {
+                "x": 40,
+                "y": 36
+              }
+            ],
+            "confidence": 0.701
+          }
+        ]
+      },
+      {
+        "text": "NIPC Contract Number",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 48
+          },
+          {
+            "x": 74,
+            "y": 49
+          },
+          {
+            "x": 74,
+            "y": 57
+          },
+          {
+            "x": 17,
+            "y": 56
+          }
+        ],
+        "words": [
+          {
+            "text": "NIPC",
+            "boundingPolygon": [
+              {
+                "x": 18,
+                "y": 48
+              },
+              {
+                "x": 27,
+                "y": 49
+              },
+              {
+                "x": 27,
+                "y": 56
+              },
+              {
+                "x": 18,
+                "y": 56
+              }
+            ],
+            "confidence": 0.356
+          },
+          {
+            "text": "Contract",
+            "boundingPolygon": [
+              {
+                "x": 28,
+                "y": 49
+              },
+              {
+                "x": 50,
+                "y": 49
+              },
+              {
+                "x": 51,
+                "y": 57
+              },
+              {
+                "x": 28,
+                "y": 56
+              }
+            ],
+            "confidence": 0.669
+          },
+          {
+            "text": "Number",
+            "boundingPolygon": [
+              {
+                "x": 52,
+                "y": 49
+              },
+              {
+                "x": 74,
+                "y": 50
+              },
+              {
+                "x": 74,
+                "y": 56
+              },
+              {
+                "x": 52,
+                "y": 57
+              }
+            ],
+            "confidence": 0.608
+          }
+        ]
+      },
+      {
+        "text": "UK4101",
+        "boundingPolygon": [
+          {
+            "x": 147,
+            "y": 48
+          },
+          {
+            "x": 169,
+            "y": 48
+          },
+          {
+            "x": 169,
+            "y": 55
+          },
+          {
+            "x": 147,
+            "y": 54
+          }
+        ],
+        "words": [
+          {
+            "text": "UK4101",
+            "boundingPolygon": [
+              {
+                "x": 147,
+                "y": 48
+              },
+              {
+                "x": 169,
+                "y": 49
+              },
+              {
+                "x": 168,
+                "y": 55
+              },
+              {
+                "x": 147,
+                "y": 55
+              }
+            ],
+            "confidence": 0.629
+          }
+        ]
+      },
+      {
+        "text": "Batch / Packageto be",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 84
+          },
+          {
+            "x": 73,
+            "y": 84
+          },
+          {
+            "x": 73,
+            "y": 92
+          },
+          {
+            "x": 16,
+            "y": 92
+          }
+        ],
+        "words": [
+          {
+            "text": "Batch",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 84
+              },
+              {
+                "x": 31,
+                "y": 85
+              },
+              {
+                "x": 31,
+                "y": 93
+              },
+              {
+                "x": 17,
+                "y": 93
+              }
+            ],
+            "confidence": 0.713
+          },
+          {
+            "text": "/",
+            "boundingPolygon": [
+              {
+                "x": 33,
+                "y": 85
+              },
+              {
+                "x": 35,
+                "y": 85
+              },
+              {
+                "x": 35,
+                "y": 93
+              },
+              {
+                "x": 33,
+                "y": 93
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "Packageto",
+            "boundingPolygon": [
+              {
+                "x": 36,
+                "y": 85
+              },
+              {
+                "x": 64,
+                "y": 85
+              },
+              {
+                "x": 64,
+                "y": 93
+              },
+              {
+                "x": 36,
+                "y": 93
+              }
+            ],
+            "confidence": 0.586
+          },
+          {
+            "text": "be",
+            "boundingPolygon": [
+              {
+                "x": 66,
+                "y": 85
+              },
+              {
+                "x": 73,
+                "y": 85
+              },
+              {
+                "x": 73,
+                "y": 92
+              },
+              {
+                "x": 66,
+                "y": 93
+              }
+            ],
+            "confidence": 0.538
+          }
+        ]
+      },
+      {
+        "text": "Dund'e B-001 bis",
+        "boundingPolygon": [
+          {
+            "x": 135,
+            "y": 92
+          },
+          {
+            "x": 180,
+            "y": 92
+          },
+          {
+            "x": 180,
+            "y": 99
+          },
+          {
+            "x": 135,
+            "y": 99
+          }
+        ],
+        "words": [
+          {
+            "text": "Dund'e",
+            "boundingPolygon": [
+              {
+                "x": 136,
+                "y": 93
+              },
+              {
+                "x": 154,
+                "y": 92
+              },
+              {
+                "x": 153,
+                "y": 99
+              },
+              {
+                "x": 136,
+                "y": 99
+              }
+            ],
+            "confidence": 0.521
+          },
+          {
+            "text": "B-001",
+            "boundingPolygon": [
+              {
+                "x": 155,
+                "y": 92
+              },
+              {
+                "x": 171,
+                "y": 92
+              },
+              {
+                "x": 171,
+                "y": 99
+              },
+              {
+                "x": 155,
+                "y": 99
+              }
+            ],
+            "confidence": 0.629
+          },
+          {
+            "text": "bis",
+            "boundingPolygon": [
+              {
+                "x": 172,
+                "y": 92
+              },
+              {
+                "x": 181,
+                "y": 92
+              },
+              {
+                "x": 181,
+                "y": 99
+              },
+              {
+                "x": 172,
+                "y": 99
+              }
+            ],
+            "confidence": 0.689
+          }
+        ]
+      },
+      {
+        "text": "Quality Release Certificate",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 100
+          },
+          {
+            "x": 86,
+            "y": 101
+          },
+          {
+            "x": 85,
+            "y": 108
+          },
+          {
+            "x": 15,
+            "y": 108
+          }
+        ],
+        "words": [
+          {
+            "text": "Quality",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 101
+              },
+              {
+                "x": 35,
+                "y": 101
+              },
+              {
+                "x": 34,
+                "y": 109
+              },
+              {
+                "x": 16,
+                "y": 108
+              }
+            ],
+            "confidence": 0.569
+          },
+          {
+            "text": "Release",
+            "boundingPolygon": [
+              {
+                "x": 36,
+                "y": 101
+              },
+              {
+                "x": 56,
+                "y": 101
+              },
+              {
+                "x": 55,
+                "y": 109
+              },
+              {
+                "x": 36,
+                "y": 109
+              }
+            ],
+            "confidence": 0.5
+          },
+          {
+            "text": "Certificate",
+            "boundingPolygon": [
+              {
+                "x": 57,
+                "y": 101
+              },
+              {
+                "x": 85,
+                "y": 102
+              },
+              {
+                "x": 84,
+                "y": 108
+              },
+              {
+                "x": 57,
+                "y": 109
+              }
+            ],
+            "confidence": 0.577
+          }
+        ]
+      },
+      {
+        "text": "2",
+        "boundingPolygon": [
+          {
+            "x": 4,
+            "y": 149
+          },
+          {
+            "x": 9,
+            "y": 149
+          },
+          {
+            "x": 9,
+            "y": 154
+          },
+          {
+            "x": 4,
+            "y": 154
+          }
+        ],
+        "words": [
+          {
+            "text": "2",
+            "boundingPolygon": [
+              {
+                "x": 5,
+                "y": 149
+              },
+              {
+                "x": 8,
+                "y": 149
+              },
+              {
+                "x": 8,
+                "y": 154
+              },
+              {
+                "x": 5,
+                "y": 154
+              }
+            ],
+            "confidence": 0.973
+          }
+        ]
+      },
+      {
+        "text": "Details of Surveillance Offer",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 148
+          },
+          {
+            "x": 91,
+            "y": 148
+          },
+          {
+            "x": 91,
+            "y": 155
+          },
+          {
+            "x": 16,
+            "y": 155
+          }
+        ],
+        "words": [
+          {
+            "text": "Details",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 149
+              },
+              {
+                "x": 35,
+                "y": 149
+              },
+              {
+                "x": 35,
+                "y": 155
+              },
+              {
+                "x": 17,
+                "y": 155
+              }
+            ],
+            "confidence": 0.665
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 36,
+                "y": 149
+              },
+              {
+                "x": 42,
+                "y": 149
+              },
+              {
+                "x": 41,
+                "y": 155
+              },
+              {
+                "x": 36,
+                "y": 155
+              }
+            ],
+            "confidence": 0.718
+          },
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 43,
+                "y": 149
+              },
+              {
+                "x": 75,
+                "y": 149
+              },
+              {
+                "x": 75,
+                "y": 155
+              },
+              {
+                "x": 43,
+                "y": 155
+              }
+            ],
+            "confidence": 0.22
+          },
+          {
+            "text": "Offer",
+            "boundingPolygon": [
+              {
+                "x": 77,
+                "y": 149
+              },
+              {
+                "x": 91,
+                "y": 149
+              },
+              {
+                "x": 91,
+                "y": 155
+              },
+              {
+                "x": 77,
+                "y": 155
+              }
+            ],
+            "confidence": 0.66
+          }
+        ]
+      },
+      {
+        "text": "Manufacturing",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 167
+          },
+          {
+            "x": 55,
+            "y": 167
+          },
+          {
+            "x": 55,
+            "y": 174
+          },
+          {
+            "x": 16,
+            "y": 173
+          }
+        ],
+        "words": [
+          {
+            "text": "Manufacturing",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 167
+              },
+              {
+                "x": 55,
+                "y": 168
+              },
+              {
+                "x": 55,
+                "y": 174
+              },
+              {
+                "x": 17,
+                "y": 174
+              }
+            ],
+            "confidence": 0.379
+          }
+        ]
+      },
+      {
+        "text": "Surveillance Offer",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 175
+          },
+          {
+            "x": 63,
+            "y": 175
+          },
+          {
+            "x": 63,
+            "y": 181
+          },
+          {
+            "x": 16,
+            "y": 181
+          }
+        ],
+        "words": [
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 176
+              },
+              {
+                "x": 47,
+                "y": 176
+              },
+              {
+                "x": 47,
+                "y": 182
+              },
+              {
+                "x": 17,
+                "y": 182
+              }
+            ],
+            "confidence": 0.548
+          },
+          {
+            "text": "Offer",
+            "boundingPolygon": [
+              {
+                "x": 49,
+                "y": 176
+              },
+              {
+                "x": 63,
+                "y": 176
+              },
+              {
+                "x": 63,
+                "y": 182
+              },
+              {
+                "x": 49,
+                "y": 182
+              }
+            ],
+            "confidence": 0.593
+          }
+        ]
+      },
+      {
+        "text": "0009520005684 Ind.0",
+        "boundingPolygon": [
+          {
+            "x": 127,
+            "y": 174
+          },
+          {
+            "x": 188,
+            "y": 174
+          },
+          {
+            "x": 188,
+            "y": 181
+          },
+          {
+            "x": 127,
+            "y": 181
+          }
+        ],
+        "words": [
+          {
+            "text": "0009520005684",
+            "boundingPolygon": [
+              {
+                "x": 129,
+                "y": 174
+              },
+              {
+                "x": 172,
+                "y": 175
+              },
+              {
+                "x": 172,
+                "y": 181
+              },
+              {
+                "x": 129,
+                "y": 181
+              }
+            ],
+            "confidence": 0.662
+          },
+          {
+            "text": "Ind.0",
+            "boundingPolygon": [
+              {
+                "x": 173,
+                "y": 175
+              },
+              {
+                "x": 186,
+                "y": 175
+              },
+              {
+                "x": 186,
+                "y": 181
+              },
+              {
+                "x": 173,
+                "y": 181
+              }
+            ],
+            "confidence": 0.276
+          }
+        ]
+      },
+      {
+        "text": "Reference",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 183
+          },
+          {
+            "x": 43,
+            "y": 183
+          },
+          {
+            "x": 43,
+            "y": 189
+          },
+          {
+            "x": 17,
+            "y": 189
+          }
+        ],
+        "words": [
+          {
+            "text": "Reference",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 183
+              },
+              {
+                "x": 43,
+                "y": 184
+              },
+              {
+                "x": 43,
+                "y": 189
+              },
+              {
+                "x": 17,
+                "y": 190
+              }
+            ],
+            "confidence": 0.565
+          }
+        ]
+      },
+      {
+        "text": "DVJEMA Manufacturing",
+        "boundingPolygon": [
+          {
+            "x": 15,
+            "y": 191
+          },
+          {
+            "x": 77,
+            "y": 192
+          },
+          {
+            "x": 77,
+            "y": 199
+          },
+          {
+            "x": 15,
+            "y": 198
+          }
+        ],
+        "words": [
+          {
+            "text": "DVJEMA",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 192
+              },
+              {
+                "x": 36,
+                "y": 192
+              },
+              {
+                "x": 36,
+                "y": 199
+              },
+              {
+                "x": 17,
+                "y": 199
+              }
+            ],
+            "confidence": 0.469
+          },
+          {
+            "text": "Manufacturing",
+            "boundingPolygon": [
+              {
+                "x": 37,
+                "y": 192
+              },
+              {
+                "x": 77,
+                "y": 193
+              },
+              {
+                "x": 77,
+                "y": 200
+              },
+              {
+                "x": 37,
+                "y": 199
+              }
+            ],
+            "confidence": 0.457
+          }
+        ]
+      },
+      {
+        "text": "Surveillance Level",
+        "boundingPolygon": [
+          {
+            "x": 15,
+            "y": 199
+          },
+          {
+            "x": 61,
+            "y": 199
+          },
+          {
+            "x": 61,
+            "y": 206
+          },
+          {
+            "x": 15,
+            "y": 206
+          }
+        ],
+        "words": [
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 200
+              },
+              {
+                "x": 47,
+                "y": 200
+              },
+              {
+                "x": 47,
+                "y": 206
+              },
+              {
+                "x": 16,
+                "y": 207
+              }
+            ],
+            "confidence": 0.315
+          },
+          {
+            "text": "Level",
+            "boundingPolygon": [
+              {
+                "x": 48,
+                "y": 200
+              },
+              {
+                "x": 62,
+                "y": 201
+              },
+              {
+                "x": 62,
+                "y": 206
+              },
+              {
+                "x": 48,
+                "y": 206
+              }
+            ],
+            "confidence": 0.834
+          }
+        ]
+      },
+      {
+        "text": "DISL",
+        "boundingPolygon": [
+          {
+            "x": 150,
+            "y": 195
+          },
+          {
+            "x": 164,
+            "y": 195
+          },
+          {
+            "x": 164,
+            "y": 202
+          },
+          {
+            "x": 150,
+            "y": 202
+          }
+        ],
+        "words": [
+          {
+            "text": "DISL",
+            "boundingPolygon": [
+              {
+                "x": 150,
+                "y": 195
+              },
+              {
+                "x": 164,
+                "y": 195
+              },
+              {
+                "x": 164,
+                "y": 202
+              },
+              {
+                "x": 150,
+                "y": 202
+              }
+            ],
+            "confidence": 0.862
+          }
+        ]
+      },
+      {
+        "text": "Status of In-factory Inspections",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 217
+          },
+          {
+            "x": 97,
+            "y": 218
+          },
+          {
+            "x": 97,
+            "y": 224
+          },
+          {
+            "x": 17,
+            "y": 223
+          }
+        ],
+        "words": [
+          {
+            "text": "Status",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 217
+              },
+              {
+                "x": 33,
+                "y": 218
+              },
+              {
+                "x": 33,
+                "y": 224
+              },
+              {
+                "x": 17,
+                "y": 224
+              }
+            ],
+            "confidence": 0.567
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 34,
+                "y": 218
+              },
+              {
+                "x": 39,
+                "y": 218
+              },
+              {
+                "x": 39,
+                "y": 224
+              },
+              {
+                "x": 34,
+                "y": 224
+              }
+            ],
+            "confidence": 0.747
+          },
+          {
+            "text": "In-factory",
+            "boundingPolygon": [
+              {
+                "x": 40,
+                "y": 218
+              },
+              {
+                "x": 66,
+                "y": 218
+              },
+              {
+                "x": 66,
+                "y": 224
+              },
+              {
+                "x": 40,
+                "y": 224
+              }
+            ],
+            "confidence": 0.626
+          },
+          {
+            "text": "Inspections",
+            "boundingPolygon": [
+              {
+                "x": 67,
+                "y": 218
+              },
+              {
+                "x": 98,
+                "y": 218
+              },
+              {
+                "x": 98,
+                "y": 225
+              },
+              {
+                "x": 67,
+                "y": 224
+              }
+            ],
+            "confidence": 0.443
+          }
+        ]
+      },
+      {
+        "text": "Completion of Irspection Guldet",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 234
+          },
+          {
+            "x": 102,
+            "y": 234
+          },
+          {
+            "x": 102,
+            "y": 241
+          },
+          {
+            "x": 17,
+            "y": 240
+          }
+        ],
+        "words": [
+          {
+            "text": "Completion",
+            "boundingPolygon": [
+              {
+                "x": 18,
+                "y": 234
+              },
+              {
+                "x": 47,
+                "y": 234
+              },
+              {
+                "x": 47,
+                "y": 241
+              },
+              {
+                "x": 18,
+                "y": 241
+              }
+            ],
+            "confidence": 0.816
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 48,
+                "y": 234
+              },
+              {
+                "x": 54,
+                "y": 234
+              },
+              {
+                "x": 54,
+                "y": 241
+              },
+              {
+                "x": 48,
+                "y": 241
+              }
+            ],
+            "confidence": 0.905
+          },
+          {
+            "text": "Irspection",
+            "boundingPolygon": [
+              {
+                "x": 55,
+                "y": 234
+              },
+              {
+                "x": 82,
+                "y": 234
+              },
+              {
+                "x": 82,
+                "y": 241
+              },
+              {
+                "x": 55,
+                "y": 241
+              }
+            ],
+            "confidence": 0.435
+          },
+          {
+            "text": "Guldet",
+            "boundingPolygon": [
+              {
+                "x": 84,
+                "y": 234
+              },
+              {
+                "x": 103,
+                "y": 235
+              },
+              {
+                "x": 103,
+                "y": 241
+              },
+              {
+                "x": 84,
+                "y": 241
+              }
+            ],
+            "confidence": 0.365
+          }
+        ]
+      },
+      {
+        "text": "Surveillance Guides",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 251
+          },
+          {
+            "x": 67,
+            "y": 251
+          },
+          {
+            "x": 67,
+            "y": 258
+          },
+          {
+            "x": 16,
+            "y": 258
+          }
+        ],
+        "words": [
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 251
+              },
+              {
+                "x": 47,
+                "y": 252
+              },
+              {
+                "x": 47,
+                "y": 259
+              },
+              {
+                "x": 17,
+                "y": 258
+              }
+            ],
+            "confidence": 0.568
+          },
+          {
+            "text": "Guides",
+            "boundingPolygon": [
+              {
+                "x": 48,
+                "y": 252
+              },
+              {
+                "x": 68,
+                "y": 252
+              },
+              {
+                "x": 67,
+                "y": 258
+              },
+              {
+                "x": 48,
+                "y": 259
+              }
+            ],
+            "confidence": 0.744
+          }
+        ]
+      },
+      {
+        "text": "Scheduled in Surveillance",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 260
+          },
+          {
+            "x": 82,
+            "y": 260
+          },
+          {
+            "x": 82,
+            "y": 267
+          },
+          {
+            "x": 16,
+            "y": 267
+          }
+        ],
+        "words": [
+          {
+            "text": "Scheduled",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 260
+              },
+              {
+                "x": 43,
+                "y": 261
+              },
+              {
+                "x": 43,
+                "y": 267
+              },
+              {
+                "x": 16,
+                "y": 267
+              }
+            ],
+            "confidence": 0.673
+          },
+          {
+            "text": "in",
+            "boundingPolygon": [
+              {
+                "x": 44,
+                "y": 261
+              },
+              {
+                "x": 49,
+                "y": 261
+              },
+              {
+                "x": 49,
+                "y": 267
+              },
+              {
+                "x": 44,
+                "y": 267
+              }
+            ],
+            "confidence": 0.954
+          },
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 50,
+                "y": 261
+              },
+              {
+                "x": 81,
+                "y": 261
+              },
+              {
+                "x": 81,
+                "y": 268
+              },
+              {
+                "x": 50,
+                "y": 267
+              }
+            ],
+            "confidence": 0.394
+          }
+        ]
+      },
+      {
+        "text": "GM901",
+        "boundingPolygon": [
+          {
+            "x": 152,
+            "y": 261
+          },
+          {
+            "x": 171,
+            "y": 261
+          },
+          {
+            "x": 171,
+            "y": 266
+          },
+          {
+            "x": 152,
+            "y": 266
+          }
+        ],
+        "words": [
+          {
+            "text": "GM901",
+            "boundingPolygon": [
+              {
+                "x": 153,
+                "y": 261
+              },
+              {
+                "x": 171,
+                "y": 262
+              },
+              {
+                "x": 171,
+                "y": 266
+              },
+              {
+                "x": 153,
+                "y": 266
+              }
+            ],
+            "confidence": 0.755
+          }
+        ]
+      },
+      {
+        "text": "8552",
+        "boundingPolygon": [
+          {
+            "x": 560,
+            "y": 261
+          },
+          {
+            "x": 574,
+            "y": 261
+          },
+          {
+            "x": 573,
+            "y": 266
+          },
+          {
+            "x": 560,
+            "y": 266
+          }
+        ],
+        "words": [
+          {
+            "text": "8552",
+            "boundingPolygon": [
+              {
+                "x": 561,
+                "y": 261
+              },
+              {
+                "x": 574,
+                "y": 261
+              },
+              {
+                "x": 574,
+                "y": 266
+              },
+              {
+                "x": 561,
+                "y": 266
+              }
+            ],
+            "confidence": 0.416
+          }
+        ]
+      },
+      {
+        "text": "Additional Guides",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 280
+          },
+          {
+            "x": 63,
+            "y": 280
+          },
+          {
+            "x": 63,
+            "y": 287
+          },
+          {
+            "x": 16,
+            "y": 286
+          }
+        ],
+        "words": [
+          {
+            "text": "Additional",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 280
+              },
+              {
+                "x": 43,
+                "y": 280
+              },
+              {
+                "x": 43,
+                "y": 287
+              },
+              {
+                "x": 17,
+                "y": 287
+              }
+            ],
+            "confidence": 0.494
+          },
+          {
+            "text": "Guides",
+            "boundingPolygon": [
+              {
+                "x": 44,
+                "y": 280
+              },
+              {
+                "x": 63,
+                "y": 281
+              },
+              {
+                "x": 63,
+                "y": 287
+              },
+              {
+                "x": 44,
+                "y": 287
+              }
+            ],
+            "confidence": 0.357
+          }
+        ]
+      },
+      {
+        "text": "programmed by Inspector",
+        "boundingPolygon": [
+          {
+            "x": 15,
+            "y": 290
+          },
+          {
+            "x": 84,
+            "y": 289
+          },
+          {
+            "x": 84,
+            "y": 296
+          },
+          {
+            "x": 15,
+            "y": 296
+          }
+        ],
+        "words": [
+          {
+            "text": "programmed",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 290
+              },
+              {
+                "x": 50,
+                "y": 290
+              },
+              {
+                "x": 50,
+                "y": 296
+              },
+              {
+                "x": 17,
+                "y": 297
+              }
+            ],
+            "confidence": 0.558
+          },
+          {
+            "text": "by",
+            "boundingPolygon": [
+              {
+                "x": 51,
+                "y": 290
+              },
+              {
+                "x": 58,
+                "y": 290
+              },
+              {
+                "x": 57,
+                "y": 296
+              },
+              {
+                "x": 51,
+                "y": 296
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Inspector",
+            "boundingPolygon": [
+              {
+                "x": 59,
+                "y": 290
+              },
+              {
+                "x": 84,
+                "y": 290
+              },
+              {
+                "x": 84,
+                "y": 296
+              },
+              {
+                "x": 59,
+                "y": 296
+              }
+            ],
+            "confidence": 0.211
+          }
+        ]
+      },
+      {
+        "text": "12",
+        "boundingPolygon": [
+          {
+            "x": 563,
+            "y": 289
+          },
+          {
+            "x": 571,
+            "y": 290
+          },
+          {
+            "x": 571,
+            "y": 295
+          },
+          {
+            "x": 563,
+            "y": 295
+          }
+        ],
+        "words": [
+          {
+            "text": "12",
+            "boundingPolygon": [
+              {
+                "x": 563,
+                "y": 289
+              },
+              {
+                "x": 571,
+                "y": 289
+              },
+              {
+                "x": 570,
+                "y": 295
+              },
+              {
+                "x": 563,
+                "y": 294
+              }
+            ],
+            "confidence": 0.715
+          }
+        ]
+      },
+      {
+        "text": "In TWO/Sat-TWO",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 297
+          },
+          {
+            "x": 60,
+            "y": 297
+          },
+          {
+            "x": 60,
+            "y": 304
+          },
+          {
+            "x": 17,
+            "y": 304
+          }
+        ],
+        "words": [
+          {
+            "text": "In",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 298
+              },
+              {
+                "x": 21,
+                "y": 298
+              },
+              {
+                "x": 21,
+                "y": 304
+              },
+              {
+                "x": 17,
+                "y": 304
+              }
+            ],
+            "confidence": 0.974
+          },
+          {
+            "text": "TWO/Sat-TWO",
+            "boundingPolygon": [
+              {
+                "x": 23,
+                "y": 298
+              },
+              {
+                "x": 59,
+                "y": 298
+              },
+              {
+                "x": 59,
+                "y": 304
+              },
+              {
+                "x": 23,
+                "y": 304
+              }
+            ],
+            "confidence": 0.315
+          }
+        ]
+      },
+      {
+        "text": "Store",
+        "boundingPolygon": [
+          {
+            "x": 329,
+            "y": 315
+          },
+          {
+            "x": 345,
+            "y": 315
+          },
+          {
+            "x": 344,
+            "y": 320
+          },
+          {
+            "x": 329,
+            "y": 320
+          }
+        ],
+        "words": [
+          {
+            "text": "Store",
+            "boundingPolygon": [
+              {
+                "x": 329,
+                "y": 315
+              },
+              {
+                "x": 343,
+                "y": 315
+              },
+              {
+                "x": 343,
+                "y": 320
+              },
+              {
+                "x": 329,
+                "y": 320
+              }
+            ],
+            "confidence": 0.631
+          }
+        ]
+      },
+      {
+        "text": "Welding pré-",
+        "boundingPolygon": [
+          {
+            "x": 499,
+            "y": 318
+          },
+          {
+            "x": 534,
+            "y": 318
+          },
+          {
+            "x": 534,
+            "y": 324
+          },
+          {
+            "x": 499,
+            "y": 325
+          }
+        ],
+        "words": [
+          {
+            "text": "Welding",
+            "boundingPolygon": [
+              {
+                "x": 499,
+                "y": 319
+              },
+              {
+                "x": 521,
+                "y": 318
+              },
+              {
+                "x": 521,
+                "y": 325
+              },
+              {
+                "x": 499,
+                "y": 325
+              }
+            ],
+            "confidence": 0.702
+          },
+          {
+            "text": "pré-",
+            "boundingPolygon": [
+              {
+                "x": 523,
+                "y": 318
+              },
+              {
+                "x": 534,
+                "y": 319
+              },
+              {
+                "x": 534,
+                "y": 325
+              },
+              {
+                "x": 523,
+                "y": 325
+              }
+            ],
+            "confidence": 0.502
+          }
+        ]
+      },
+      {
+        "text": "Dimentional",
+        "boundingPolygon": [
+          {
+            "x": 672,
+            "y": 314
+          },
+          {
+            "x": 704,
+            "y": 314
+          },
+          {
+            "x": 704,
+            "y": 320
+          },
+          {
+            "x": 672,
+            "y": 320
+          }
+        ],
+        "words": [
+          {
+            "text": "Dimentional",
+            "boundingPolygon": [
+              {
+                "x": 672,
+                "y": 315
+              },
+              {
+                "x": 705,
+                "y": 315
+              },
+              {
+                "x": 704,
+                "y": 321
+              },
+              {
+                "x": 672,
+                "y": 320
+              }
+            ],
+            "confidence": 0.568
+          }
+        ]
+      },
+      {
+        "text": "Name of Gulde",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 322
+          },
+          {
+            "x": 56,
+            "y": 322
+          },
+          {
+            "x": 56,
+            "y": 329
+          },
+          {
+            "x": 17,
+            "y": 329
+          }
+        ],
+        "words": [
+          {
+            "text": "Name",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 322
+              },
+              {
+                "x": 32,
+                "y": 322
+              },
+              {
+                "x": 32,
+                "y": 329
+              },
+              {
+                "x": 17,
+                "y": 329
+              }
+            ],
+            "confidence": 0.645
+          },
+          {
+            "text": "of",
+            "boundingPolygon": [
+              {
+                "x": 33,
+                "y": 323
+              },
+              {
+                "x": 39,
+                "y": 323
+              },
+              {
+                "x": 38,
+                "y": 329
+              },
+              {
+                "x": 33,
+                "y": 329
+              }
+            ],
+            "confidence": 0.329
+          },
+          {
+            "text": "Gulde",
+            "boundingPolygon": [
+              {
+                "x": 40,
+                "y": 323
+              },
+              {
+                "x": 56,
+                "y": 323
+              },
+              {
+                "x": 55,
+                "y": 329
+              },
+              {
+                "x": 40,
+                "y": 329
+              }
+            ],
+            "confidence": 0.779
+          }
+        ]
+      },
+      {
+        "text": "Welding",
+        "boundingPolygon": [
+          {
+            "x": 99,
+            "y": 319
+          },
+          {
+            "x": 123,
+            "y": 319
+          },
+          {
+            "x": 123,
+            "y": 325
+          },
+          {
+            "x": 99,
+            "y": 324
+          }
+        ],
+        "words": [
+          {
+            "text": "Welding",
+            "boundingPolygon": [
+              {
+                "x": 100,
+                "y": 319
+              },
+              {
+                "x": 122,
+                "y": 320
+              },
+              {
+                "x": 122,
+                "y": 325
+              },
+              {
+                "x": 100,
+                "y": 325
+              }
+            ],
+            "confidence": 0.762
+          }
+        ]
+      },
+      {
+        "text": "Matsfacturing",
+        "boundingPolygon": [
+          {
+            "x": 142,
+            "y": 327
+          },
+          {
+            "x": 182,
+            "y": 327
+          },
+          {
+            "x": 182,
+            "y": 333
+          },
+          {
+            "x": 142,
+            "y": 332
+          }
+        ],
+        "words": [
+          {
+            "text": "Matsfacturing",
+            "boundingPolygon": [
+              {
+                "x": 143,
+                "y": 327
+              },
+              {
+                "x": 182,
+                "y": 328
+              },
+              {
+                "x": 182,
+                "y": 333
+              },
+              {
+                "x": 143,
+                "y": 333
+              }
+            ],
+            "confidence": 0.31
+          }
+        ]
+      },
+      {
+        "text": "regalines",
+        "boundingPolygon": [
+          {
+            "x": 195,
+            "y": 323
+          },
+          {
+            "x": 222,
+            "y": 324
+          },
+          {
+            "x": 222,
+            "y": 329
+          },
+          {
+            "x": 195,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "regalines",
+            "boundingPolygon": [
+              {
+                "x": 196,
+                "y": 323
+              },
+              {
+                "x": 222,
+                "y": 324
+              },
+              {
+                "x": 222,
+                "y": 329
+              },
+              {
+                "x": 196,
+                "y": 328
+              }
+            ],
+            "confidence": 0.296
+          }
+        ]
+      },
+      {
+        "text": "Examination",
+        "boundingPolygon": [
+          {
+            "x": 230,
+            "y": 319
+          },
+          {
+            "x": 265,
+            "y": 319
+          },
+          {
+            "x": 265,
+            "y": 324
+          },
+          {
+            "x": 230,
+            "y": 324
+          }
+        ],
+        "words": [
+          {
+            "text": "Examination",
+            "boundingPolygon": [
+              {
+                "x": 231,
+                "y": 319
+              },
+              {
+                "x": 264,
+                "y": 319
+              },
+              {
+                "x": 264,
+                "y": 325
+              },
+              {
+                "x": 231,
+                "y": 325
+              }
+            ],
+            "confidence": 0.436
+          }
+        ]
+      },
+      {
+        "text": "Sub-suppliam",
+        "boundingPolygon": [
+          {
+            "x": 273,
+            "y": 318
+          },
+          {
+            "x": 310,
+            "y": 318
+          },
+          {
+            "x": 310,
+            "y": 325
+          },
+          {
+            "x": 273,
+            "y": 324
+          }
+        ],
+        "words": [
+          {
+            "text": "Sub-suppliam",
+            "boundingPolygon": [
+              {
+                "x": 274,
+                "y": 319
+              },
+              {
+                "x": 308,
+                "y": 319
+              },
+              {
+                "x": 308,
+                "y": 325
+              },
+              {
+                "x": 274,
+                "y": 325
+              }
+            ],
+            "confidence": 0.375
+          }
+        ]
+      },
+      {
+        "text": "Mestomoment",
+        "boundingPolygon": [
+          {
+            "x": 449,
+            "y": 318
+          },
+          {
+            "x": 488,
+            "y": 318
+          },
+          {
+            "x": 488,
+            "y": 325
+          },
+          {
+            "x": 449,
+            "y": 325
+          }
+        ],
+        "words": [
+          {
+            "text": "Mestomoment",
+            "boundingPolygon": [
+              {
+                "x": 450,
+                "y": 319
+              },
+              {
+                "x": 488,
+                "y": 319
+              },
+              {
+                "x": 488,
+                "y": 325
+              },
+              {
+                "x": 450,
+                "y": 325
+              }
+            ],
+            "confidence": 0.304
+          }
+        ]
+      },
+      {
+        "text": "Procedure",
+        "boundingPolygon": [
+          {
+            "x": 97,
+            "y": 327
+          },
+          {
+            "x": 125,
+            "y": 327
+          },
+          {
+            "x": 125,
+            "y": 332
+          },
+          {
+            "x": 97,
+            "y": 332
+          }
+        ],
+        "words": [
+          {
+            "text": "Procedure",
+            "boundingPolygon": [
+              {
+                "x": 98,
+                "y": 327
+              },
+              {
+                "x": 125,
+                "y": 328
+              },
+              {
+                "x": 125,
+                "y": 333
+              },
+              {
+                "x": 98,
+                "y": 333
+              }
+            ],
+            "confidence": 0.49
+          }
+        ]
+      },
+      {
+        "text": "raleste",
+        "boundingPolygon": [
+          {
+            "x": 199,
+            "y": 331
+          },
+          {
+            "x": 219,
+            "y": 331
+          },
+          {
+            "x": 219,
+            "y": 336
+          },
+          {
+            "x": 199,
+            "y": 336
+          }
+        ],
+        "words": [
+          {
+            "text": "raleste",
+            "boundingPolygon": [
+              {
+                "x": 199,
+                "y": 331
+              },
+              {
+                "x": 218,
+                "y": 332
+              },
+              {
+                "x": 217,
+                "y": 336
+              },
+              {
+                "x": 199,
+                "y": 336
+              }
+            ],
+            "confidence": 0.465
+          }
+        ]
+      },
+      {
+        "text": "al wab-order",
+        "boundingPolygon": [
+          {
+            "x": 231,
+            "y": 327
+          },
+          {
+            "x": 264,
+            "y": 327
+          },
+          {
+            "x": 265,
+            "y": 332
+          },
+          {
+            "x": 231,
+            "y": 332
+          }
+        ],
+        "words": [
+          {
+            "text": "al",
+            "boundingPolygon": [
+              {
+                "x": 231,
+                "y": 328
+              },
+              {
+                "x": 236,
+                "y": 328
+              },
+              {
+                "x": 236,
+                "y": 333
+              },
+              {
+                "x": 231,
+                "y": 333
+              }
+            ],
+            "confidence": 0.747
+          },
+          {
+            "text": "wab-order",
+            "boundingPolygon": [
+              {
+                "x": 237,
+                "y": 328
+              },
+              {
+                "x": 263,
+                "y": 328
+              },
+              {
+                "x": 263,
+                "y": 332
+              },
+              {
+                "x": 237,
+                "y": 333
+              }
+            ],
+            "confidence": 0.372
+          }
+        ]
+      },
+      {
+        "text": "surveillance",
+        "boundingPolygon": [
+          {
+            "x": 276,
+            "y": 327
+          },
+          {
+            "x": 308,
+            "y": 327
+          },
+          {
+            "x": 308,
+            "y": 333
+          },
+          {
+            "x": 276,
+            "y": 333
+          }
+        ],
+        "words": [
+          {
+            "text": "surveillance",
+            "boundingPolygon": [
+              {
+                "x": 276,
+                "y": 327
+              },
+              {
+                "x": 307,
+                "y": 328
+              },
+              {
+                "x": 307,
+                "y": 333
+              },
+              {
+                "x": 276,
+                "y": 333
+              }
+            ],
+            "confidence": 0.322
+          }
+        ]
+      },
+      {
+        "text": "entrance",
+        "boundingPolygon": [
+          {
+            "x": 324,
+            "y": 323
+          },
+          {
+            "x": 349,
+            "y": 323
+          },
+          {
+            "x": 349,
+            "y": 328
+          },
+          {
+            "x": 324,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "entrance",
+            "boundingPolygon": [
+              {
+                "x": 324,
+                "y": 324
+              },
+              {
+                "x": 347,
+                "y": 324
+              },
+              {
+                "x": 347,
+                "y": 329
+              },
+              {
+                "x": 324,
+                "y": 329
+              }
+            ],
+            "confidence": 0.568
+          }
+        ]
+      },
+      {
+        "text": "Faller Matsclés",
+        "boundingPolygon": [
+          {
+            "x": 399,
+            "y": 322
+          },
+          {
+            "x": 439,
+            "y": 322
+          },
+          {
+            "x": 439,
+            "y": 328
+          },
+          {
+            "x": 399,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "Faller",
+            "boundingPolygon": [
+              {
+                "x": 399,
+                "y": 322
+              },
+              {
+                "x": 413,
+                "y": 322
+              },
+              {
+                "x": 413,
+                "y": 329
+              },
+              {
+                "x": 399,
+                "y": 329
+              }
+            ],
+            "confidence": 0.486
+          },
+          {
+            "text": "Matsclés",
+            "boundingPolygon": [
+              {
+                "x": 414,
+                "y": 322
+              },
+              {
+                "x": 440,
+                "y": 322
+              },
+              {
+                "x": 440,
+                "y": 329
+              },
+              {
+                "x": 414,
+                "y": 329
+              }
+            ],
+            "confidence": 0.387
+          }
+        ]
+      },
+      {
+        "text": "contral",
+        "boundingPolygon": [
+          {
+            "x": 326,
+            "y": 331
+          },
+          {
+            "x": 346,
+            "y": 331
+          },
+          {
+            "x": 346,
+            "y": 336
+          },
+          {
+            "x": 326,
+            "y": 336
+          }
+        ],
+        "words": [
+          {
+            "text": "contral",
+            "boundingPolygon": [
+              {
+                "x": 326,
+                "y": 332
+              },
+              {
+                "x": 346,
+                "y": 332
+              },
+              {
+                "x": 346,
+                "y": 337
+              },
+              {
+                "x": 326,
+                "y": 337
+              }
+            ],
+            "confidence": 0.541
+          }
+        ]
+      },
+      {
+        "text": "Tool",
+        "boundingPolygon": [
+          {
+            "x": 461,
+            "y": 327
+          },
+          {
+            "x": 475,
+            "y": 327
+          },
+          {
+            "x": 475,
+            "y": 332
+          },
+          {
+            "x": 461,
+            "y": 333
+          }
+        ],
+        "words": [
+          {
+            "text": "Tool",
+            "boundingPolygon": [
+              {
+                "x": 462,
+                "y": 327
+              },
+              {
+                "x": 474,
+                "y": 327
+              },
+              {
+                "x": 474,
+                "y": 333
+              },
+              {
+                "x": 462,
+                "y": 333
+              }
+            ],
+            "confidence": 0.72
+          }
+        ]
+      },
+      {
+        "text": "Welding",
+        "boundingPolygon": [
+          {
+            "x": 554,
+            "y": 323
+          },
+          {
+            "x": 579,
+            "y": 323
+          },
+          {
+            "x": 579,
+            "y": 329
+          },
+          {
+            "x": 554,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "Welding",
+            "boundingPolygon": [
+              {
+                "x": 555,
+                "y": 323
+              },
+              {
+                "x": 577,
+                "y": 324
+              },
+              {
+                "x": 577,
+                "y": 330
+              },
+              {
+                "x": 555,
+                "y": 329
+              }
+            ],
+            "confidence": 0.844
+          }
+        ]
+      },
+      {
+        "text": "Marking",
+        "boundingPolygon": [
+          {
+            "x": 599,
+            "y": 327
+          },
+          {
+            "x": 623,
+            "y": 327
+          },
+          {
+            "x": 622,
+            "y": 333
+          },
+          {
+            "x": 599,
+            "y": 333
+          }
+        ],
+        "words": [
+          {
+            "text": "Marking",
+            "boundingPolygon": [
+              {
+                "x": 601,
+                "y": 327
+              },
+              {
+                "x": 623,
+                "y": 328
+              },
+              {
+                "x": 623,
+                "y": 333
+              },
+              {
+                "x": 601,
+                "y": 333
+              }
+            ],
+            "confidence": 0.701
+          }
+        ]
+      },
+      {
+        "text": "Cleaning",
+        "boundingPolygon": [
+          {
+            "x": 637,
+            "y": 322
+          },
+          {
+            "x": 662,
+            "y": 323
+          },
+          {
+            "x": 662,
+            "y": 329
+          },
+          {
+            "x": 636,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "Cleaning",
+            "boundingPolygon": [
+              {
+                "x": 638,
+                "y": 322
+              },
+              {
+                "x": 661,
+                "y": 324
+              },
+              {
+                "x": 661,
+                "y": 329
+              },
+              {
+                "x": 638,
+                "y": 329
+              }
+            ],
+            "confidence": 0.527
+          }
+        ]
+      },
+      {
+        "text": "inbarchanges",
+        "boundingPolygon": [
+          {
+            "x": 671,
+            "y": 323
+          },
+          {
+            "x": 707,
+            "y": 323
+          },
+          {
+            "x": 707,
+            "y": 329
+          },
+          {
+            "x": 671,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "inbarchanges",
+            "boundingPolygon": [
+              {
+                "x": 672,
+                "y": 323
+              },
+              {
+                "x": 706,
+                "y": 324
+              },
+              {
+                "x": 705,
+                "y": 329
+              },
+              {
+                "x": 672,
+                "y": 329
+              }
+            ],
+            "confidence": 0.613
+          }
+        ]
+      },
+      {
+        "text": "Assembling",
+        "boundingPolygon": [
+          {
+            "x": 710,
+            "y": 323
+          },
+          {
+            "x": 743,
+            "y": 323
+          },
+          {
+            "x": 743,
+            "y": 328
+          },
+          {
+            "x": 710,
+            "y": 328
+          }
+        ],
+        "words": [
+          {
+            "text": "Assembling",
+            "boundingPolygon": [
+              {
+                "x": 712,
+                "y": 324
+              },
+              {
+                "x": 742,
+                "y": 324
+              },
+              {
+                "x": 741,
+                "y": 329
+              },
+              {
+                "x": 712,
+                "y": 329
+              }
+            ],
+            "confidence": 0.335
+          }
+        ]
+      },
+      {
+        "text": "1 action will be",
+        "boundingPolygon": [
+          {
+            "x": 546,
+            "y": 347
+          },
+          {
+            "x": 588,
+            "y": 347
+          },
+          {
+            "x": 588,
+            "y": 353
+          },
+          {
+            "x": 546,
+            "y": 354
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 546,
+                "y": 347
+              },
+              {
+                "x": 549,
+                "y": 347
+              },
+              {
+                "x": 549,
+                "y": 354
+              },
+              {
+                "x": 546,
+                "y": 354
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "action",
+            "boundingPolygon": [
+              {
+                "x": 551,
+                "y": 347
+              },
+              {
+                "x": 567,
+                "y": 347
+              },
+              {
+                "x": 567,
+                "y": 354
+              },
+              {
+                "x": 551,
+                "y": 354
+              }
+            ],
+            "confidence": 0.792
+          },
+          {
+            "text": "will",
+            "boundingPolygon": [
+              {
+                "x": 569,
+                "y": 347
+              },
+              {
+                "x": 579,
+                "y": 347
+              },
+              {
+                "x": 578,
+                "y": 354
+              },
+              {
+                "x": 568,
+                "y": 354
+              }
+            ],
+            "confidence": 0.882
+          },
+          {
+            "text": "be",
+            "boundingPolygon": [
+              {
+                "x": 580,
+                "y": 347
+              },
+              {
+                "x": 587,
+                "y": 347
+              },
+              {
+                "x": 586,
+                "y": 353
+              },
+              {
+                "x": 580,
+                "y": 354
+              }
+            ],
+            "confidence": 0.756
+          }
+        ]
+      },
+      {
+        "text": "performed:",
+        "boundingPolygon": [
+          {
+            "x": 550,
+            "y": 356
+          },
+          {
+            "x": 582,
+            "y": 355
+          },
+          {
+            "x": 583,
+            "y": 361
+          },
+          {
+            "x": 550,
+            "y": 362
+          }
+        ],
+        "words": [
+          {
+            "text": "performed:",
+            "boundingPolygon": [
+              {
+                "x": 552,
+                "y": 356
+              },
+              {
+                "x": 583,
+                "y": 356
+              },
+              {
+                "x": 582,
+                "y": 362
+              },
+              {
+                "x": 552,
+                "y": 362
+              }
+            ],
+            "confidence": 0.583
+          }
+        ]
+      },
+      {
+        "text": "-Per welding",
+        "boundingPolygon": [
+          {
+            "x": 551,
+            "y": 362
+          },
+          {
+            "x": 583,
+            "y": 363
+          },
+          {
+            "x": 583,
+            "y": 369
+          },
+          {
+            "x": 551,
+            "y": 368
+          }
+        ],
+        "words": [
+          {
+            "text": "-Per",
+            "boundingPolygon": [
+              {
+                "x": 552,
+                "y": 363
+              },
+              {
+                "x": 561,
+                "y": 363
+              },
+              {
+                "x": 561,
+                "y": 369
+              },
+              {
+                "x": 552,
+                "y": 369
+              }
+            ],
+            "confidence": 0.705
+          },
+          {
+            "text": "welding",
+            "boundingPolygon": [
+              {
+                "x": 562,
+                "y": 363
+              },
+              {
+                "x": 582,
+                "y": 364
+              },
+              {
+                "x": 582,
+                "y": 369
+              },
+              {
+                "x": 562,
+                "y": 369
+              }
+            ],
+            "confidence": 0.43
+          }
+        ]
+      },
+      {
+        "text": "Scheduled Frequency (as In",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 372
+          },
+          {
+            "x": 87,
+            "y": 372
+          },
+          {
+            "x": 87,
+            "y": 380
+          },
+          {
+            "x": 16,
+            "y": 380
+          }
+        ],
+        "words": [
+          {
+            "text": "Scheduled",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 373
+              },
+              {
+                "x": 43,
+                "y": 373
+              },
+              {
+                "x": 43,
+                "y": 381
+              },
+              {
+                "x": 16,
+                "y": 381
+              }
+            ],
+            "confidence": 0.666
+          },
+          {
+            "text": "Frequency",
+            "boundingPolygon": [
+              {
+                "x": 44,
+                "y": 373
+              },
+              {
+                "x": 71,
+                "y": 373
+              },
+              {
+                "x": 71,
+                "y": 380
+              },
+              {
+                "x": 44,
+                "y": 381
+              }
+            ],
+            "confidence": 0.573
+          },
+          {
+            "text": "(as",
+            "boundingPolygon": [
+              {
+                "x": 73,
+                "y": 373
+              },
+              {
+                "x": 79,
+                "y": 374
+              },
+              {
+                "x": 79,
+                "y": 380
+              },
+              {
+                "x": 72,
+                "y": 380
+              }
+            ],
+            "confidence": 0.604
+          },
+          {
+            "text": "In",
+            "boundingPolygon": [
+              {
+                "x": 81,
+                "y": 374
+              },
+              {
+                "x": 87,
+                "y": 374
+              },
+              {
+                "x": 86,
+                "y": 380
+              },
+              {
+                "x": 81,
+                "y": 380
+              }
+            ],
+            "confidence": 0.62
+          }
+        ]
+      },
+      {
+        "text": "process",
+        "boundingPolygon": [
+          {
+            "x": 556,
+            "y": 371
+          },
+          {
+            "x": 576,
+            "y": 371
+          },
+          {
+            "x": 576,
+            "y": 377
+          },
+          {
+            "x": 556,
+            "y": 377
+          }
+        ],
+        "words": [
+          {
+            "text": "process",
+            "boundingPolygon": [
+              {
+                "x": 557,
+                "y": 372
+              },
+              {
+                "x": 576,
+                "y": 372
+              },
+              {
+                "x": 575,
+                "y": 377
+              },
+              {
+                "x": 557,
+                "y": 378
+              }
+            ],
+            "confidence": 0.567
+          }
+        ]
+      },
+      {
+        "text": "1 per",
+        "boundingPolygon": [
+          {
+            "x": 680,
+            "y": 374
+          },
+          {
+            "x": 697,
+            "y": 374
+          },
+          {
+            "x": 697,
+            "y": 379
+          },
+          {
+            "x": 680,
+            "y": 380
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 682,
+                "y": 375
+              },
+              {
+                "x": 685,
+                "y": 375
+              },
+              {
+                "x": 685,
+                "y": 380
+              },
+              {
+                "x": 682,
+                "y": 380
+              }
+            ],
+            "confidence": 0.427
+          },
+          {
+            "text": "per",
+            "boundingPolygon": [
+              {
+                "x": 686,
+                "y": 375
+              },
+              {
+                "x": 696,
+                "y": 375
+              },
+              {
+                "x": 695,
+                "y": 380
+              },
+              {
+                "x": 686,
+                "y": 380
+              }
+            ],
+            "confidence": 0.712
+          }
+        ]
+      },
+      {
+        "text": "-",
+        "boundingPolygon": [
+          {
+            "x": 165,
+            "y": 377
+          },
+          {
+            "x": 165,
+            "y": 384
+          },
+          {
+            "x": 160,
+            "y": 384
+          },
+          {
+            "x": 160,
+            "y": 377
+          }
+        ],
+        "words": [
+          {
+            "text": "-",
+            "boundingPolygon": [
+              {
+                "x": 165,
+                "y": 379
+              },
+              {
+                "x": 165,
+                "y": 381
+              },
+              {
+                "x": 160,
+                "y": 381
+              },
+              {
+                "x": 160,
+                "y": 379
+              }
+            ],
+            "confidence": 0.713
+          }
+        ]
+      },
+      {
+        "text": "Surveillance Offer!",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 381
+          },
+          {
+            "x": 65,
+            "y": 381
+          },
+          {
+            "x": 65,
+            "y": 388
+          },
+          {
+            "x": 16,
+            "y": 389
+          }
+        ],
+        "words": [
+          {
+            "text": "Surveillance",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 381
+              },
+              {
+                "x": 47,
+                "y": 381
+              },
+              {
+                "x": 46,
+                "y": 388
+              },
+              {
+                "x": 17,
+                "y": 389
+              }
+            ],
+            "confidence": 0.502
+          },
+          {
+            "text": "Offer!",
+            "boundingPolygon": [
+              {
+                "x": 48,
+                "y": 381
+              },
+              {
+                "x": 65,
+                "y": 381
+              },
+              {
+                "x": 65,
+                "y": 388
+              },
+              {
+                "x": 48,
+                "y": 388
+              }
+            ],
+            "confidence": 0.412
+          }
+        ]
+      },
+      {
+        "text": "1",
+        "boundingPolygon": [
+          {
+            "x": 206,
+            "y": 378
+          },
+          {
+            "x": 213,
+            "y": 378
+          },
+          {
+            "x": 213,
+            "y": 383
+          },
+          {
+            "x": 205,
+            "y": 383
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 208,
+                "y": 378
+              },
+              {
+                "x": 211,
+                "y": 378
+              },
+              {
+                "x": 211,
+                "y": 383
+              },
+              {
+                "x": 208,
+                "y": 383
+              }
+            ],
+            "confidence": 0.945
+          }
+        ]
+      },
+      {
+        "text": "1",
+        "boundingPolygon": [
+          {
+            "x": 289,
+            "y": 378
+          },
+          {
+            "x": 294,
+            "y": 378
+          },
+          {
+            "x": 295,
+            "y": 383
+          },
+          {
+            "x": 288,
+            "y": 383
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 291,
+                "y": 378
+              },
+              {
+                "x": 294,
+                "y": 378
+              },
+              {
+                "x": 294,
+                "y": 383
+              },
+              {
+                "x": 291,
+                "y": 383
+              }
+            ],
+            "confidence": 0.939
+          }
+        ]
+      },
+      {
+        "text": "1 per HT type",
+        "boundingPolygon": [
+          {
+            "x": 356,
+            "y": 377
+          },
+          {
+            "x": 393,
+            "y": 377
+          },
+          {
+            "x": 393,
+            "y": 384
+          },
+          {
+            "x": 356,
+            "y": 384
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 357,
+                "y": 378
+              },
+              {
+                "x": 360,
+                "y": 378
+              },
+              {
+                "x": 360,
+                "y": 384
+              },
+              {
+                "x": 357,
+                "y": 384
+              }
+            ],
+            "confidence": 0.52
+          },
+          {
+            "text": "per",
+            "boundingPolygon": [
+              {
+                "x": 362,
+                "y": 378
+              },
+              {
+                "x": 370,
+                "y": 378
+              },
+              {
+                "x": 370,
+                "y": 384
+              },
+              {
+                "x": 362,
+                "y": 384
+              }
+            ],
+            "confidence": 0.951
+          },
+          {
+            "text": "HT",
+            "boundingPolygon": [
+              {
+                "x": 372,
+                "y": 378
+              },
+              {
+                "x": 379,
+                "y": 378
+              },
+              {
+                "x": 379,
+                "y": 384
+              },
+              {
+                "x": 372,
+                "y": 384
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "type",
+            "boundingPolygon": [
+              {
+                "x": 380,
+                "y": 378
+              },
+              {
+                "x": 392,
+                "y": 378
+              },
+              {
+                "x": 392,
+                "y": 384
+              },
+              {
+                "x": 380,
+                "y": 384
+              }
+            ],
+            "confidence": 0.645
+          }
+        ]
+      },
+      {
+        "text": "equipment",
+        "boundingPolygon": [
+          {
+            "x": 593,
+            "y": 381
+          },
+          {
+            "x": 627,
+            "y": 382
+          },
+          {
+            "x": 627,
+            "y": 388
+          },
+          {
+            "x": 593,
+            "y": 387
+          }
+        ],
+        "words": [
+          {
+            "text": "equipment",
+            "boundingPolygon": [
+              {
+                "x": 597,
+                "y": 382
+              },
+              {
+                "x": 626,
+                "y": 383
+              },
+              {
+                "x": 625,
+                "y": 388
+              },
+              {
+                "x": 596,
+                "y": 388
+              }
+            ],
+            "confidence": 0.317
+          }
+        ]
+      },
+      {
+        "text": "equipment",
+        "boundingPolygon": [
+          {
+            "x": 674,
+            "y": 382
+          },
+          {
+            "x": 705,
+            "y": 382
+          },
+          {
+            "x": 705,
+            "y": 387
+          },
+          {
+            "x": 674,
+            "y": 388
+          }
+        ],
+        "words": [
+          {
+            "text": "equipment",
+            "boundingPolygon": [
+              {
+                "x": 675,
+                "y": 382
+              },
+              {
+                "x": 704,
+                "y": 382
+              },
+              {
+                "x": 703,
+                "y": 388
+              },
+              {
+                "x": 674,
+                "y": 388
+              }
+            ],
+            "confidence": 0.421
+          }
+        ]
+      },
+      {
+        "text": "1",
+        "boundingPolygon": [
+          {
+            "x": 724,
+            "y": 378
+          },
+          {
+            "x": 730,
+            "y": 378
+          },
+          {
+            "x": 730,
+            "y": 383
+          },
+          {
+            "x": 723,
+            "y": 383
+          }
+        ],
+        "words": [
+          {
+            "text": "1",
+            "boundingPolygon": [
+              {
+                "x": 726,
+                "y": 378
+              },
+              {
+                "x": 729,
+                "y": 378
+              },
+              {
+                "x": 729,
+                "y": 383
+              },
+              {
+                "x": 726,
+                "y": 383
+              }
+            ],
+            "confidence": 0.892
+          }
+        ]
+      },
+      {
+        "text": "Courtt &",
+        "boundingPolygon": [
+          {
+            "x": 556,
+            "y": 386
+          },
+          {
+            "x": 575,
+            "y": 386
+          },
+          {
+            "x": 575,
+            "y": 392
+          },
+          {
+            "x": 556,
+            "y": 392
+          }
+        ],
+        "words": [
+          {
+            "text": "Courtt",
+            "boundingPolygon": [
+              {
+                "x": 557,
+                "y": 386
+              },
+              {
+                "x": 571,
+                "y": 387
+              },
+              {
+                "x": 570,
+                "y": 392
+              },
+              {
+                "x": 557,
+                "y": 392
+              }
+            ],
+            "confidence": 0.566
+          },
+          {
+            "text": "&",
+            "boundingPolygon": [
+              {
+                "x": 572,
+                "y": 387
+              },
+              {
+                "x": 574,
+                "y": 387
+              },
+              {
+                "x": 574,
+                "y": 392
+              },
+              {
+                "x": 571,
+                "y": 392
+              }
+            ],
+            "confidence": 0.152
+          }
+        ]
+      },
+      {
+        "text": "Per material group",
+        "boundingPolygon": [
+          {
+            "x": 543,
+            "y": 400
+          },
+          {
+            "x": 590,
+            "y": 401
+          },
+          {
+            "x": 590,
+            "y": 407
+          },
+          {
+            "x": 543,
+            "y": 406
+          }
+        ],
+        "words": [
+          {
+            "text": "Per",
+            "boundingPolygon": [
+              {
+                "x": 545,
+                "y": 401
+              },
+              {
+                "x": 553,
+                "y": 401
+              },
+              {
+                "x": 552,
+                "y": 407
+              },
+              {
+                "x": 545,
+                "y": 407
+              }
+            ],
+            "confidence": 0.867
+          },
+          {
+            "text": "material",
+            "boundingPolygon": [
+              {
+                "x": 554,
+                "y": 401
+              },
+              {
+                "x": 574,
+                "y": 401
+              },
+              {
+                "x": 574,
+                "y": 407
+              },
+              {
+                "x": 554,
+                "y": 407
+              }
+            ],
+            "confidence": 0.326
+          },
+          {
+            "text": "group",
+            "boundingPolygon": [
+              {
+                "x": 575,
+                "y": 401
+              },
+              {
+                "x": 589,
+                "y": 402
+              },
+              {
+                "x": 590,
+                "y": 407
+              },
+              {
+                "x": 576,
+                "y": 407
+              }
+            ],
+            "confidence": 0.904
+          }
+        ]
+      },
+      {
+        "text": "Actual Frequency",
+        "boundingPolygon": [
+          {
+            "x": 16,
+            "y": 421
+          },
+          {
+            "x": 62,
+            "y": 422
+          },
+          {
+            "x": 62,
+            "y": 430
+          },
+          {
+            "x": 16,
+            "y": 429
+          }
+        ],
+        "words": [
+          {
+            "text": "Actual",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 422
+              },
+              {
+                "x": 32,
+                "y": 422
+              },
+              {
+                "x": 32,
+                "y": 430
+              },
+              {
+                "x": 17,
+                "y": 429
+              }
+            ],
+            "confidence": 0.82
+          },
+          {
+            "text": "Frequency",
+            "boundingPolygon": [
+              {
+                "x": 34,
+                "y": 422
+              },
+              {
+                "x": 62,
+                "y": 423
+              },
+              {
+                "x": 62,
+                "y": 430
+              },
+              {
+                "x": 34,
+                "y": 430
+              }
+            ],
+            "confidence": 0.598
+          }
+        ]
+      },
+      {
+        "text": "completed",
+        "boundingPolygon": [
+          {
+            "x": 17,
+            "y": 430
+          },
+          {
+            "x": 46,
+            "y": 430
+          },
+          {
+            "x": 46,
+            "y": 437
+          },
+          {
+            "x": 17,
+            "y": 437
+          }
+        ],
+        "words": [
+          {
+            "text": "completed",
+            "boundingPolygon": [
+              {
+                "x": 17,
+                "y": 431
+              },
+              {
+                "x": 44,
+                "y": 430
+              },
+              {
+                "x": 44,
+                "y": 437
+              },
+              {
+                "x": 17,
+                "y": 438
+              }
+            ],
+            "confidence": 0.576
+          }
+        ]
+      }
+    ]
+  }
+]
